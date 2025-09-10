@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("PrograII-tp1")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+ef63cfc84d3fed9761d076630e38d9b7d66a8319")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+e7f2309fd7343ca7c1dbeb1b58dd77fc40ff1b43")]
 [assembly: System.Reflection.AssemblyProductAttribute("PrograII-tp1")]
 [assembly: System.Reflection.AssemblyTitleAttribute("PrograII-tp1")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

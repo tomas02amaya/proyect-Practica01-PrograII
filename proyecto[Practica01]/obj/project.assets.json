@@ -14,11 +14,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\TomasAmaya\\Desktop\\progra2\\proyect-Practica01-PrograII\\PrograII-tp1\\PrograII-tp1.csproj",
-      "projectName": "PrograII-tp1",
-      "projectPath": "C:\\Users\\TomasAmaya\\Desktop\\progra2\\proyect-Practica01-PrograII\\PrograII-tp1\\PrograII-tp1.csproj",
+      "projectUniqueName": "C:\\Users\\TomasAmaya\\Desktop\\progra2\\proyecto[Practica01]\\proyecto[Practica01]\\proyecto[Practica01].csproj",
+      "projectName": "proyecto[Practica01]",
+      "projectPath": "C:\\Users\\TomasAmaya\\Desktop\\progra2\\proyecto[Practica01]\\proyecto[Practica01]\\proyecto[Practica01].csproj",
       "packagesPath": "C:\\Users\\TomasAmaya\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\TomasAmaya\\Desktop\\progra2\\proyect-Practica01-PrograII\\PrograII-tp1\\obj\\",
+      "outputPath": "C:\\Users\\TomasAmaya\\Desktop\\progra2\\proyecto[Practica01]\\proyecto[Practica01]\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"

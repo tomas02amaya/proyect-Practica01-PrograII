@@ -1,0 +1,5 @@
+C:\Users\TomasAmaya\Desktop\progra2\proyecto[Practica01]\proyecto[Practica01]\obj\Debug\net8.0\proyecto[Practica01].GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\TomasAmaya\Desktop\progra2\proyecto[Practica01]\proyecto[Practica01]\obj\Debug\net8.0\proyecto[Practica01].AssemblyInfoInputs.cache
+C:\Users\TomasAmaya\Desktop\progra2\proyecto[Practica01]\proyecto[Practica01]\obj\Debug\net8.0\proyecto[Practica01].AssemblyInfo.cs
+C:\Users\TomasAmaya\Desktop\progra2\proyecto[Practica01]\proyecto[Practica01]\obj\Debug\net8.0\proyecto[Practica01].csproj.CoreCompileInputs.cache
+C:\Users\TomasAmaya\Desktop\progra2\proyecto[Practica01]\proyecto[Practica01]\obj\Debug\net8.0\proyecto[Practica01].sourcelink.json
