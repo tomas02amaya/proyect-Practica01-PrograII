@@ -4,7 +4,7 @@ using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 
-namespace PrograII_tp1.Data.DataHelpers
+namespace proyectoPractica01.Data.DataHelpers
 {
     public class Parameter
     {
