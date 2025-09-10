@@ -4,7 +4,7 @@ using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 
-namespace proyecto[Practica01].Domain
+namespace proyectoPractica01.Domain
 {
     public class DetalleFactura
     {
