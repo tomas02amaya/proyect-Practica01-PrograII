@@ -18,5 +18,22 @@ namespace proyectoPractica01.Domain
         {
             DetalleFactura = new List<DetalleFactura>();
         }
+
+        public void AddDetalleFactura(DetalleFactura detalleFactura)
+        {
+            DetalleFactura.Add(detalleFactura);
+        }
+        public void RevomeDetalleFactura(DetalleFactura detalleFactura)
+        {
+            DetalleFactura.Remove(detalleFactura);
+        }
+
+        public void Total() { 
+            double total = 0;
+            foreach (DetalleFactura df in DetalleFactura)
+            {
+                total += df.SubTotal();
+            }
+        }
     }
 }

@@ -10,15 +10,15 @@ namespace proyectoPractica01.Data.DataHelpers
     {
         public Parameter()
         {
-            Name = string.Empty;
+            Nombre = string.Empty;
             Valor = null;
         }
         public Parameter(string name, object valor)
         {
-            this.Name = name;
+            this.Nombre = name;
             this.Valor = valor;
         }
-        public string Name { get; set; }
+        public string Nombre { get; set; }
         public object Valor { get; set; }
     }
 }
