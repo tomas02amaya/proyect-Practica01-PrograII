@@ -14,5 +14,9 @@ namespace proyectoPractica01.Domain
         public string Cliente { get; set; }
         public List<DetalleFactura> DetalleFactura { get; set; }
 
+        public Factura()
+        {
+            DetalleFactura = new List<DetalleFactura>();
+        }
     }
 }

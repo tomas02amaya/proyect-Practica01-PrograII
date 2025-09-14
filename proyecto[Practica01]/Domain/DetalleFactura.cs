@@ -8,8 +8,13 @@ namespace proyectoPractica01.Domain
 {
     public class DetalleFactura
     {
-        public Libro Articulo { get; set; }
-        public int Cantidad { get; set; }  
+        public Libro Libro { get; set; }
+        public int Cantidad { get; set; }
+
+        public double SubTotal()
+        {
+            return Libro.PrecioUnitario * Cantidad;
+        }
 
     }
 }
