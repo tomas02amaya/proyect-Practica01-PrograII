@@ -8,7 +8,7 @@ namespace proyectoPractica01.Domain
 {
     public class DetalleFactura
     {
-        public Articulo Articulo { get; set; }
+        public Libro Articulo { get; set; }
         public int Cantidad { get; set; }  
 
     }

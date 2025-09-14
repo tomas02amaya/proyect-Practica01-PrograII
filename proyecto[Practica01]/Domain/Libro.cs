@@ -6,7 +6,7 @@ using System.Threading.Tasks;
 
 namespace proyectoPractica01.Domain
 {
-    public class Articulo
+    public class Libro
     {
         public int Id { get; set; }
         public string Nombre { get; set; }
